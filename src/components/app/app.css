@@ -1,0 +1,15 @@
+.app {
+    margin: 0 auto;
+    max-width: 800px;
+  }
+
+  .search-panel {
+    margin: 1rem 0;
+  }
+  
+  .search-panel .search-input {
+    width: auto;
+    flex-grow: 1;
+    margin-right: 3px;
+  }
+  
